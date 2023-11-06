@@ -1,4 +1,4 @@
-## Bundle Parcel- Lab Opcional - Lemoncode
+## Bundle Parcel
 
 Bundle creado desde cero en Parcel incluyendo las siguientes caracteristicas:
 
